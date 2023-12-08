@@ -1,0 +1,53 @@
+*{
+    margin: 0;  
+     padding: 0;
+     box-sizing: border-box;
+     
+  }
+  
+body{
+    background-color: #f7f4f4;
+}
+       /*  footer con css*/
+.footer{
+    background-color: #e48d8d;
+    
+}
+.container-all{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.container-mapa{
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+.container-about h5{
+    text-align: center;
+    color: rgb(134, 128, 228);
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+}
+.about2{
+    text-align: justify;
+
+    color: #5020c0;
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container-redes h5{
+    text-align: center;
+    color: azure;
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container-final{
+    text-align: center;
+    color: rgb(177, 240, 229);
+    font-size: 1.2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+
+    
+
